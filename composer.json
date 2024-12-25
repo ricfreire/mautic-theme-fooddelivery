@@ -1,0 +1,13 @@
+{
+  "name": "mautic/fooddelivery",
+  "description": "Food Delivery Email Theme by Ricardo Freire",
+  "type": "mautic-theme",
+  "keywords": ["mautic","theme"],
+  "extra": {
+    "install-directory-name": "fooddelivery"
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "mautic/core-lib": "^5.0"
+  }
+}
